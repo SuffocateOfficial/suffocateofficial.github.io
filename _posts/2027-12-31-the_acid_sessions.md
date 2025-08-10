@@ -1,6 +1,6 @@
 ---
 title: 'The ACID Sessions'
-date: 2027-10-01
+date: 2027-12-31
 permalink: /posts/the-acid-sessions/
 tags:
   - ep
