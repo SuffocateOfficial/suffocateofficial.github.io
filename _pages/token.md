@@ -33,3 +33,6 @@ Features
   * Selected tracks
   * Limited-edition artwork
 * Direct distribution without intermediaries
+
+
+[Whitepaper](https://official.watchmesuffocate.com/paper/)
