@@ -1,6 +1,6 @@
 ---
 title: 'The Bedroom Sessions'
-date: 2028-03-31
+date: 2027-12-31
 permalink: /posts/the-bedroom-sessions/
 tags:
   - compilation

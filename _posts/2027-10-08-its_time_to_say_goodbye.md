@@ -1,6 +1,6 @@
 ---
 title: 'Its Time To Say Goodbye'
-date: 2027-10-01
+date: 2027-10-08
 permalink: /posts/its-time-to-say-goodbye/
 tags:
   - playlist
