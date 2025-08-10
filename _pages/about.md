@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# About
-
 Built on the weight of emotion and the chaos of sound, this project isn't about perfection - it's about honesty.
 
 ## More Than Music
