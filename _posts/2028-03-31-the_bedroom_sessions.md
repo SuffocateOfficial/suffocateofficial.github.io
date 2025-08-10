@@ -6,7 +6,7 @@ tags:
   - compilation
 ---
 
-**It's Time**
+**The Bedroom Sessions**
 
 01 [Nirvana](https://official.watchmesuffocate.com/posts/nirvana/)
 02 [Dragon’s Breath](https://official.watchmesuffocate.com/posts/dragons-breath/)

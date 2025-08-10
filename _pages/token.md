@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Suffocate (WMS) Token
+Suffocate (WMS)
 ======
 
 Platform
