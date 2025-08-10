@@ -5,11 +5,12 @@ permalink: /token/
 author_profile: true
 redirect_from:
   - /suffocate
+  - /suffocate-token
 ---
 
 {% include base_path %}
 
-Suffocate (WMS)
+Suffocate Token
 ======
 
 Platform

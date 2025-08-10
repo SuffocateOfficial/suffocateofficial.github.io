@@ -6,4 +6,6 @@ tags:
   - band
 ---
 
+**Watch Me Suffocate Est. 2025**
+
 [watchmesuffocate.com](https://watchmesuffocate.com)

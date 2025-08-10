@@ -1,6 +1,6 @@
 ---
 title: 'Its Time To Say Goodbye'
-date: 2027-12-31
+date: 2027-10-01
 permalink: /posts/its-time-to-say-goodbye/
 tags:
   - playlist
@@ -18,4 +18,4 @@ tags:
 08 [Guestlist](https://official.watchmesuffocate.com/posts/guestlist/)
 09 [The Funeral](https://official.watchmesuffocate.com/posts/the-funeral/)
 10 [Last Words](https://official.watchmesuffocate.com/posts/last-words/)
-11 [My Last Summer - Hidden Track](https://official.watchmesuffocate.com/posts/my-last-summer/)
+11 [My Last Summer (Acoustic)](https://official.watchmesuffocate.com/posts/my-last-summer-acoustic/)

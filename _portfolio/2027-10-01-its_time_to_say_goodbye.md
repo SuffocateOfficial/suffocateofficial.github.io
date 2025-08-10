@@ -12,11 +12,14 @@ collection: portfolio
 04 [Love Letter](https://official.watchmesuffocate.com/posts/love-letter/)
 05 [Sweet Dreams, Beauty](https://official.watchmesuffocate.com/posts/sweet-dreams-beauty/)
 
-**TO SAY GOODBYE**
+**To Say Goodbye**
 
 06 [Eclipse](https://official.watchmesuffocate.com/posts/eclipse/)
 07 [Empty Eyes](https://official.watchmesuffocate.com/posts/empty-eyes/)
 08 [Guestlist](https://official.watchmesuffocate.com/posts/guestlist/)
 09 [The Funeral](https://official.watchmesuffocate.com/posts/the-funeral/)
 10 [Last Words](https://official.watchmesuffocate.com/posts/last-words/)
-11 [My Last Summer - Hidden Track](https://official.watchmesuffocate.com/posts/my-last-summer/)
+
+**Hidden Track**
+
+11 [My Last Summer (Acoustic)](https://official.watchmesuffocate.com/posts/my-last-summer-acoustic/)

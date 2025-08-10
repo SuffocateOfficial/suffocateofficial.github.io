@@ -12,7 +12,7 @@ collection: portfolio
 04 [Love Letter](https://official.watchmesuffocate.com/posts/love-letter/)
 05 [Sweet Dreams, Beauty](https://official.watchmesuffocate.com/posts/sweet-dreams-beauty/)
 
-**TO SAY GOODBYE**
+**To Say Goodbye**
 
 06 [Eclipse](https://official.watchmesuffocate.com/posts/eclipse/)
 07 [Empty Eyes](https://official.watchmesuffocate.com/posts/empty-eyes/)

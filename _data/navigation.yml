@@ -11,6 +11,12 @@ main:
   - title: "Token"
     url: /token/
 
+  # - title: "Club"
+  #   url: /club/
+
+  # - title: "Underground"
+  #   url: /underground/
+
   # - title: "Publications"
   #   url: /publications/
 
@@ -34,3 +40,6 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+
+  # - title: "Vienna Underground"
+  #   url: /vienna-underground/
