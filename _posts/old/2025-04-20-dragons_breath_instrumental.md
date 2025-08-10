@@ -1,5 +1,5 @@
 ---
-title: 'Dragon's Breath (Extended Instrumental)'
+title: 'Dragons Breath (Extended Instrumental)'
 date: 2025-04-20
 permalink: /posts/dragons-breath-instrumental/
 tags:
