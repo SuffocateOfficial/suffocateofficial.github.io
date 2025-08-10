@@ -1,5 +1,5 @@
 ---
-title: 'It\'s Time To Say Goodbye'
+title: 'Its Time To Say Goodbye'
 date: 2027-12-31
 permalink: /posts/its-time-to-say-goodbye/
 tags:
