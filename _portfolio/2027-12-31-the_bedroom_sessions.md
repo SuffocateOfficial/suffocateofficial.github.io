@@ -4,6 +4,8 @@ excerpt: "<em>The Bedroom Sessions</em><br/><br /><a href='https://official.watc
 collection: portfolio
 ---
 
+**ACT I**
+
 **It's Time**
 
 01 [Nirvana](https://official.watchmesuffocate.com/posts/nirvana/)
@@ -12,11 +14,16 @@ collection: portfolio
 04 [Love Letter](https://official.watchmesuffocate.com/posts/love-letter/)
 05 [Sweet Dreams, Beauty](https://official.watchmesuffocate.com/posts/sweet-dreams-beauty/)
 
+**ACT II**
+
 **To Say Goodbye**
 
 06 [Eclipse](https://official.watchmesuffocate.com/posts/eclipse/)
 07 [Empty Eyes](https://official.watchmesuffocate.com/posts/empty-eyes/)
 08 [Guestlist](https://official.watchmesuffocate.com/posts/guestlist/)
+
+**ACT III**
+
 09 [The Funeral](https://official.watchmesuffocate.com/posts/the-funeral/)
 10 [Last Words](https://official.watchmesuffocate.com/posts/last-words/)
 
