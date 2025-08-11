@@ -11,11 +11,14 @@ main:
   - title: "Token"
     url: /token/
 
-  # - title: "Club"
-  #   url: /club/
+  - title: "App"
+    url: /app/
 
-  # - title: "Underground"
-  #   url: /underground/
+  - title: "Club"
+    url: /club/
+
+  - title: "Underground"
+    url: /underground/
 
   # - title: "Publications"
   #   url: /publications/
@@ -41,8 +44,8 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  # - title: "Stop Suffocation"
-  #   url: /stop-suffocation/
+  - title: "Stop Suffocation"
+    url: /stop-suffocation/
 
-  # - title: "Vienna Underground"
-  #   url: /vienna-underground/
+  - title: "Vienna Underground"
+    url: /vienna-underground/

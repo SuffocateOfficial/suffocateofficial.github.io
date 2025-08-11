@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Club"
 permalink: /club/
 author_profile: true

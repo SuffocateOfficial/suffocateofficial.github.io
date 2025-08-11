@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Stop Suffocation"
 permalink: /stop-suffocation/
 author_profile: true

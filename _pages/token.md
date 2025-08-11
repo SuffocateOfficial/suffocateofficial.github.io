@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Token"
 permalink: /token/
 author_profile: true

@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Underground"
 permalink: /underground/
 author_profile: true
