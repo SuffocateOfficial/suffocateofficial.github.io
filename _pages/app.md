@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
-C
+Currently, the app is available on the Google Play Store.
+
+It's in early access.
 
 [Suffocate App](https://play.google.com/apps/details?id=com.watchmesuffocate.suffocate)

@@ -11,5 +11,4 @@ redirect_from:
 
 {% include base_path %}
 
-Stop Suffocation (Charity / Fundraising / Tour)
-======
+https://teamwater.org/

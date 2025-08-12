@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-======
-
 Platform
 ------
 * Dedicated platform for exclusive content distribution
