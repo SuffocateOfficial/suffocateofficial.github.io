@@ -18,7 +18,7 @@ Platform
 
 Source Code and Documentation
 ------
-* Available on GitHub: [https://github.com/WatchMeSuffocate](https://github.com/WatchMeSuffocate)
+* Available on GitHub: [https://github.com/WatchMeSuffocate/token](https://github.com/WatchMeSuffocate/token)
   * Repository includes:
     * Platform source code
     * Comprehensive documentation
