@@ -15,7 +15,7 @@ Let's start talking about weed. Without weed, there would be no "Watch Me Suffoc
 
 Thanks to weed, which over the years helped me stay focused and have a good time. Never forget the good ol' strains.
 
-One "J" during a night out can make the rest of the night way more interesting. But there's a chance of killing the vibe when smoking with beginners. Then you better roll a spliff. Gotta develop the habit of taking hits of the vape more and more regularly over time.  
+One "J" during a night out can make the rest of the night way more interesting. But there's a chance of killing the vibe when smoking with beginners. Then you better roll a spliff. Gotta develop the habit of taking hits of the vape more and more regularly over time.
   
 What would I be without Cocaine. It helps me partying, getting my shit done and it's great having during sex. I love doing blow on a girls ass. Thank's "The Wolf of Wall Street".   
   
