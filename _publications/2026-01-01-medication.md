@@ -6,7 +6,7 @@ permalink: /publication/2026-01-01-medication
 excerpt: 'This paper is about "Self Medication"'
 date: 2026-10-01
 venue: 'Journal'
-citation: 'Lorenz Geyser, Watch Me Suffocate. &quot;Self Medication; <i>Journal</i>. 1(1).'
+citation: 'Lorenz Geyser, Watch Me Suffocate. &quot;Self Medication; <i>Journal</i>.'
 ---
 
 My favourite drug?  
