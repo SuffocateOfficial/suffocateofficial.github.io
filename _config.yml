@@ -186,6 +186,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - images/portfolio/dev
   - vendor
 keep_files:
   - .git
@@ -285,6 +286,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # dev/ = temporary, not published until released
+  - scope:
+      path: "_posts/dev"
+    values:
+      published: false
+  - scope:
+      path: "_portfolio/dev"
+    values:
+      published: false
 
 
 # Sass/SCSS
