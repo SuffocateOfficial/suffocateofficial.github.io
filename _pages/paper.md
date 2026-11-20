@@ -7,7 +7,6 @@ redirect_from:
   - "/whitepaper.html"
   - "/paper.html"
 ---
-
 {% include base_path %}
 
 This is the official whitepaper of the **Suffocate (WMS)** token.
