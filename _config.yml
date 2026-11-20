@@ -59,13 +59,13 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "watchmesuffocate.official"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
-  soundcloud       : # Username
+  soundcloud       : "watchmesuffocate"
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
@@ -74,7 +74,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "WatchMeSuffocate"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings

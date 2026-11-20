@@ -1,12 +1,12 @@
 main:
-  # - title: "App"
-  #   url: /app/
+  - title: "App"
+    url: /app/
 
   - title: "Token"
     url: /token/
 
-  # - title: "Club"
-  #   url: /club/
+  - title: "Club"
+    url: /club/
 
   # - title: "Underground"
   #   url: /underground/
